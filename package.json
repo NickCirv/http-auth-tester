@@ -1,0 +1,30 @@
+{
+  "name": "http-auth-tester",
+  "version": "1.0.0",
+  "description": "Test HTTP authentication endpoints — basic, bearer, API key, query param. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "http-auth-tester": "./index.js",
+    "hat": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "http",
+    "authentication",
+    "testing",
+    "api-testing",
+    "security"
+  ],
+  "license": "MIT",
+  "author": "NickCirv",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/http-auth-tester.git"
+  }
+}
