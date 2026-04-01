@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # http-auth-tester
 
 Test HTTP authentication endpoints from the command line. Supports Basic, Bearer, API key (header), API key (query param), and Digest auth. Zero external dependencies — built-in Node.js modules only.
